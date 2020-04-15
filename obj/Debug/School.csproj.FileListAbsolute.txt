@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Project\obj\Debug\School.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Project\obj\Debug\School.Properties.Resources.resources
+C:\Users\User\source\repos\Project\obj\Debug\School.pupil.resources
+C:\Users\User\source\repos\Project\obj\Debug\School.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Project\bin\Debug\School.exe.config
+C:\Users\User\source\repos\Project\bin\Debug\School.exe
+C:\Users\User\source\repos\Project\bin\Debug\School.pdb
+C:\Users\User\source\repos\Project\obj\Debug\School.exe
+C:\Users\User\source\repos\Project\obj\Debug\School.pdb
